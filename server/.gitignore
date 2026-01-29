@@ -1,0 +1,42 @@
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Build / cache
+dist/
+build/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# MongoDB dumps / backups
+dump/
+backups/
+
+# Seed artifacts (if any generated)
+seed-output.json
